@@ -1,0 +1,19 @@
+#green-title{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(111, 248, 129);
+}
+
+#blue-title{
+    color: rgb(18, 86, 234);
+    font-size: 36px;
+}
+
+p{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #ff838f;
+}
+
+p.special{
+    font-size: 34px;
+}
